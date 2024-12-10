@@ -17,7 +17,6 @@ git clone https://github.com/mnurlyl/kodluyoruzilkrepo.git
 ### Linux için:
 
 cd kodluyoruzilkrepo
-
 code .
 
 # Contributing
