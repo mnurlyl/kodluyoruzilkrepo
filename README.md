@@ -6,6 +6,7 @@ Bu repo [kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluştur
 # Installation
 
 öncelikle projeyi cloneleyın.
+
 git clone https://github.com/mnurlyl/kodluyoruzilkrepo.git
 
 
@@ -20,7 +21,7 @@ code .
 
 # Contributing
 
-### Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
+Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
 # License
 
